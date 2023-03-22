@@ -1,4 +1,17 @@
 
+Sony TEN 1 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8 
+
+Sony TEN 2 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8 
+
+Sony TEN 3 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8 
+
+Sony TEN 4 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8 
+
+Sony TEN 5 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
+
+
+https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png
+
 #EXTINF:0,ESPN HD
 http://local.xnetwork.club:8000/LG4XW7icoz/PrLk9zwah5/667
 #EXTINF:0,ESPN 2HD
