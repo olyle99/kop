@@ -9,9 +9,6 @@ Sony TEN 4 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master
 
 Sony TEN 5 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
 
-
-https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png
-
 #EXTINF:0,ESPN HD
 http://local.xnetwork.club:8000/LG4XW7icoz/PrLk9zwah5/667
 #EXTINF:0,ESPN 2HD
@@ -34,7 +31,6 @@ http://local.xnetwork.club:8000/LG4XW7icoz/PrLk9zwah5/695
 #EXTINF:0,HOT
 http://local.xnetwork.club:8000/LG4XW7icoz/PrLk9zwah5/841
 
-#EXTINF:0,arena sport1HD
 http://local.xnetwork.club:8000/ecNuB4hpw0/VruHUUHnzh/730
 #EXTINF:0,nova sport 1HD
 http://local.xnetwork.club:8000/ecNuB4hpw0/VruHUUHnzh/787
