@@ -1,13 +1,66 @@
 
-Sony TEN 1 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8 
+#EXTINF:0, 9990
+http://madplay.live/starlive/index.m3u8/?id=49990&token=highrisk
+#EXTINF:0, 9993
+http://madplay.live/starlive/index.m3u8/?id=49993&token=highrisk
+#EXTINF:0, 9994
+http://madplay.live/starlive/index.m3u8/?id=49994&token=highrisk
+#EXTINF:0, 9995
+http://madplay.live/starlive/index.m3u8/?id=49995&token=highrisk
+#EXTINF:0, 9997
+http://madplay.live/starlive/index.m3u8/?id=49997&token=highrisk
+#EXTINF:0, 9999
+http://madplay.live/starlive/index.m3u8/?id=49999&token=highrisk
+#EXTINF:0, 0000
+http://madplay.live/starlive/index.m3u8/?id=50000&token=highrisk
+#EXTINF:0, 0001
+http://madplay.live/starlive/index.m3u8/?id=50001&token=highrisk
+#EXTINF:0, 0002
+http://madplay.live/starlive/index.m3u8/?id=50002&token=highrisk
+#EXTINF:0, 7290
+http://madplay.live/starlive/index.m3u8/?id=47290&token=highrisk
+#EXTINF:0, 7270
+http://madplay.live/starlive/index.m3u8/?id=47270&token=highrisk
+#EXTINF:0, 7269
+http://madplay.live/starlive/index.m3u8/?id=47269&token=highrisk
+#EXTINF:0, 7263
+http://madplay.live/starlive/index.m3u8/?id=47263&token=highrisk
+#EXTINF:0, 7258
+http://madplay.live/starlive/index.m3u8/?id=47258&token=highrisk
+#EXTINF:0, 7257
+http://madplay.live/starlive/index.m3u8/?id=47257&token=highrisk
+#EXTINF:0, 7255
+http://madplay.live/starlive/index.m3u8/?id=47255&token=highrisk
+#EXTINF:0, 7246
+http://madplay.live/starlive/index.m3u8/?id=47246&token=highrisk
+#EXTINF:0, 7245
+http://madplay.live/starlive/index.m3u8/?id=47245&token=highrisk
+#EXTINF:0, 7243
+http://madplay.live/starlive/index.m3u8/?id=47243&token=highrisk
+#EXTINF:0, 7241
+http://madplay.live/starlive/index.m3u8/?id=47241&token=highrisk
+#EXTINF:0, 7231
+http://madplay.live/starlive/index.m3u8/?id=47231&token=highrisk
+#EXTINF:0, 7321
+http://madplay.live/starlive/index.m3u8/?id=47321&token=highrisk
+#EXTINF:0, 7329
+http://madplay.live/starlive/index.m3u8/?id=47329&token=highrisk
+#EXTINF:0, 7331
+http://madplay.live/starlive/index.m3u8/?id=47331&token=highrisk
+#EXTINF:0, 7333
+http://madplay.live/starlive/index.m3u8/?id=47333&token=highrisk
+#EXTINF:0, 7334
+http://madplay.live/starlive/index.m3u8/?id=47334&token=highrisk
+#EXTINF:0, 7336
+http://madplay.live/starlive/index.m3u8/?id=47336&token=highrisk
+#EXTINF:0, 7338
+http://madplay.live/starlive/index.m3u8/?id=47338&token=highrisk
+#EXTINF:0, 7353
+http://madplay.live/starlive/index.m3u8/?id=47353&token=highrisk
+#EXTINF:0, 7354
+http://madplay.live/starlive/index.m3u8/?id=47354&token=highrisk
 
-Sony TEN 2 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8 
 
-Sony TEN 3 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8 
-
-Sony TEN 4 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8 
-
-Sony TEN 5 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
 
 #EXTINF:0,ESPN HD
 http://local.xnetwork.club:8000/LG4XW7icoz/PrLk9zwah5/667
